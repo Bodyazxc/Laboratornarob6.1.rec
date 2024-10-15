@@ -1,0 +1,9 @@
+﻿Build started at 20:53...
+1>------ Build started: Project: UnitTest6.1, Configuration: Debug x64 ------
+1>UnitTest6.1.cpp
+1>C:\Users\Compik_2\source\repos\Laboratorna6.1.rec\Laboratorna6.1.rec\Laboratorna6.1.rec.cpp(34,1): warning C4715: 'Sum': not all control paths return a value
+1>C:\Users\Compik_2\source\repos\Laboratorna6.1.rec\Laboratorna6.1.rec\Laboratorna6.1.rec.cpp(46,1): warning C4715: 'Count': not all control paths return a value
+1>UnitTest6.1.vcxproj -> C:\Users\Compik_2\source\repos\Laboratorna6.1.rec\x64\Debug\UnitTest6.1.dll
+1>Done building project "UnitTest6.1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Build completed at 20:53 and took 01,823 seconds ==========
